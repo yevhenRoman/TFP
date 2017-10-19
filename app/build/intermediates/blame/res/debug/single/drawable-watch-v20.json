@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/yroma/AndroidStudioProjects/TFP/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/yroma/.android/build-cache/8162aef8d86ebaad0b1fc0ff3971403efecf586f/output/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/yroma/AndroidStudioProjects/TFP/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/yroma/.android/build-cache/8162aef8d86ebaad0b1fc0ff3971403efecf586f/output/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Users/yroma/AndroidStudioProjects/TFP/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
+        "source": "/Users/yroma/.android/build-cache/8162aef8d86ebaad0b1fc0ff3971403efecf586f/output/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+    }
+]

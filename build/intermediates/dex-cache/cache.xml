@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/yroma/.gradle/caches/modules-2/files-2.1/com.google.guava/guava-jdk5/17.0/463f8378feba44df7ba7cd9272d01837dad62b36/guava-jdk5-17.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="463f8378feba44df7ba7cd9272d01837dad62b36">
+        <dex dex="/Users/yroma/AndroidStudioProjects/TFP/app/build/intermediates/pre-dexed/debug/guava-jdk5-17.0_56cbaa33b4ddd1c2fa3d3b738355d5e426e09d84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yroma/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.1.3/f6c3aed1cdfa21b5c1737c915186ea93a95a58bd/jackson-core-2.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="/Users/yroma/AndroidStudioProjects/TFP/app/build/intermediates/pre-dexed/debug/jackson-core-2.1.3_30bf8a7960d9c245a580180c457c6fcf52440e86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yroma/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-gson/1.20.0/9204765f39000f6109c927ac66c7963bf9c7df19/google-http-client-gson-1.20.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9204765f39000f6109c927ac66c7963bf9c7df19">
+        <dex dex="/Users/yroma/AndroidStudioProjects/TFP/app/build/intermediates/pre-dexed/debug/google-http-client-gson-1.20.0_e9368abd1ec5b792f1ca217f0f638900bd7fc892.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yroma/.android/build-cache/0ef14cd67ad5a49a1220d7283b3f57e5fca757e4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0bffdc0bd4f7ca0e27c5bfeef39569f8da00aa26">
+        <dex dex="/Users/yroma/AndroidStudioProjects/TFP/app/build/intermediates/pre-dexed/debug/classes_4fb37b1d53bb9eb9cc355d1c785ded6e7ed63da2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yroma/.android/build-cache/8162aef8d86ebaad0b1fc0ff3971403efecf586f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f5ff5e3811e8c9485fd27f9052ae4d4d23a22d9d">
+        <dex dex="/Users/yroma/AndroidStudioProjects/TFP/app/build/intermediates/pre-dexed/debug/classes_dad89ca5f308238d5ab6fff099d40ba3962e2225.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yroma/.gradle/caches/modules-2/files-2.1/com.google.oauth-client/google-oauth-client/1.22.0/1d63f369ac78e4838a3197147012026e791008cb/google-oauth-client-1.22.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1d63f369ac78e4838a3197147012026e791008cb">
+        <dex dex="/Users/yroma/AndroidStudioProjects/TFP/app/build/intermediates/pre-dexed/debug/google-oauth-client-1.22.0_ddbe70132652396f197515a298a8a3c0a8fd8ee0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yroma/.android/build-cache/8816fa01d29d445d73eee05bb4da85f684bce323/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/Users/yroma/AndroidStudioProjects/TFP/app/build/intermediates/pre-dexed/debug/classes_8d5c667655d323a52b30a7b73ea0c40cfb64f9b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yroma/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/1.3.9/40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf/jsr305-1.3.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="/Users/yroma/AndroidStudioProjects/TFP/app/build/intermediates/pre-dexed/debug/jsr305-1.3.9_1b3708a2bcc85ea7e9839c2e573dd580223f02a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yroma/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-jackson2/1.22.0/cc014d64ae11117e159d334c99d9c246d9b36f44/google-http-client-jackson2-1.22.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cc014d64ae11117e159d334c99d9c246d9b36f44">
+        <dex dex="/Users/yroma/AndroidStudioProjects/TFP/app/build/intermediates/pre-dexed/debug/google-http-client-jackson2-1.22.0_6c38d6b31cfa6c99c1fba6f79316e41018cf849c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yroma/.android/build-cache/734d6b7d2069c53bfe9e405b8b2c8d0bd38f2f18/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/Users/yroma/AndroidStudioProjects/TFP/app/build/intermediates/pre-dexed/debug/classes_7dd9f042f6fa855b7a3b858310bc91212476dbb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yroma/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client/1.22.0/d441fc58329c4a4c067acec04ac361627f66ecc8/google-http-client-1.22.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d441fc58329c4a4c067acec04ac361627f66ecc8">
+        <dex dex="/Users/yroma/AndroidStudioProjects/TFP/app/build/intermediates/pre-dexed/debug/google-http-client-1.22.0_1b607141950367876e1a017f1db0d4ac99302e93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yroma/.android/build-cache/713c1fd13316ca49616e60a2522ecb9ab4a82757/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/Users/yroma/AndroidStudioProjects/TFP/app/build/intermediates/pre-dexed/debug/classes_d417204e07d98a00decbc5b8e370f0188df29d7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yroma/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client-android/1.22.0/7a0fe12b7d8189a821934d6f9d6586d00180e461/google-api-client-android-1.22.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7a0fe12b7d8189a821934d6f9d6586d00180e461">
+        <dex dex="/Users/yroma/AndroidStudioProjects/TFP/app/build/intermediates/pre-dexed/debug/google-api-client-android-1.22.0_47f81f31ffbd70e5f7399cf93aade834cd766a9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yroma/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.1/2e66da15851f9f5b5079228f856c2f090ba98c38/gson-2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e66da15851f9f5b5079228f856c2f090ba98c38">
+        <dex dex="/Users/yroma/AndroidStudioProjects/TFP/app/build/intermediates/pre-dexed/debug/gson-2.1_f4dfcc9620f7dbe8a1166eb34f0f81c6bf43fc27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yroma/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client/1.22.0/244350c0c845c583717ade13f5666a452fd0cfa/google-api-client-1.22.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0244350c0c845c583717ade13f5666a452fd0cfa">
+        <dex dex="/Users/yroma/AndroidStudioProjects/TFP/app/build/intermediates/pre-dexed/debug/google-api-client-1.22.0_a668c9c120c7d93663346c60493a8ffba634da77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yroma/.gradle/caches/modules-2/files-2.1/com.google.apis/google-api-services-vision/v1-rev16-1.22.0/da91b4e6752e7eec38bca490f82018c3c8c45358/google-api-services-vision-v1-rev16-1.22.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="da91b4e6752e7eec38bca490f82018c3c8c45358">
+        <dex dex="/Users/yroma/AndroidStudioProjects/TFP/app/build/intermediates/pre-dexed/debug/google-api-services-vision-v1-rev16-1.22.0_5f27957c0867d1cebc4fd23a719870c34c0240f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yroma/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-android/1.22.0/6d1e1a76a16a244ab2f41775791be1dd0ec2878a/google-http-client-android-1.22.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6d1e1a76a16a244ab2f41775791be1dd0ec2878a">
+        <dex dex="/Users/yroma/AndroidStudioProjects/TFP/app/build/intermediates/pre-dexed/debug/google-http-client-android-1.22.0_7a927792b665d689f1a01f7727e753e665916de6.jar" />
+    </item>
+
+</items>

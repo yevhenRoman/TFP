@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/yroma/AndroidStudioProjects/TFP/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/yroma/.android/build-cache/b4542c8f457733913864ad16a78886b1155938d2/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/yroma/AndroidStudioProjects/TFP/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/yroma/.android/build-cache/b4542c8f457733913864ad16a78886b1155938d2/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/yroma/AndroidStudioProjects/TFP/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/yroma/.android/build-cache/b4542c8f457733913864ad16a78886b1155938d2/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/yroma/AndroidStudioProjects/TFP/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/yroma/.android/build-cache/b4542c8f457733913864ad16a78886b1155938d2/output/res/layout-v21/notification_action.xml"
+    }
+]

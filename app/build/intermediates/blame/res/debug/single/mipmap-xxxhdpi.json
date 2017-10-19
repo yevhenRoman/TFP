@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/yroma/AndroidStudioProjects/TFP/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
+        "source": "/Users/yroma/AndroidStudioProjects/TFP/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/yroma/AndroidStudioProjects/TFP/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Users/yroma/AndroidStudioProjects/TFP/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]

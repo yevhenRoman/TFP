@@ -1,0 +1,194 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/yroma/AndroidStudioProjects/TFP/app/src/main/AndroidManifest.xml:3:1-58:12
+	package
+		ADDED from /Users/yroma/AndroidStudioProjects/TFP/app/src/main/AndroidManifest.xml:4:5-36
+		INJECTED from /Users/yroma/AndroidStudioProjects/TFP/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yroma/AndroidStudioProjects/TFP/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/yroma/AndroidStudioProjects/TFP/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yroma/AndroidStudioProjects/TFP/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/yroma/AndroidStudioProjects/TFP/app/src/main/AndroidManifest.xml:3:11-69
+	android:versionCode
+		INJECTED from /Users/yroma/AndroidStudioProjects/TFP/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yroma/AndroidStudioProjects/TFP/app/src/main/AndroidManifest.xml
+uses-feature#android.hardware.camera
+ADDED from /Users/yroma/AndroidStudioProjects/TFP/app/src/main/AndroidManifest.xml:7:5-8:35
+	android:required
+		ADDED from /Users/yroma/AndroidStudioProjects/TFP/app/src/main/AndroidManifest.xml:8:9-32
+	android:name
+		ADDED from /Users/yroma/AndroidStudioProjects/TFP/app/src/main/AndroidManifest.xml:7:19-57
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/yroma/AndroidStudioProjects/TFP/app/src/main/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from /Users/yroma/AndroidStudioProjects/TFP/app/src/main/AndroidManifest.xml:9:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/yroma/AndroidStudioProjects/TFP/app/src/main/AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from /Users/yroma/AndroidStudioProjects/TFP/app/src/main/AndroidManifest.xml:10:22-77
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /Users/yroma/AndroidStudioProjects/TFP/app/src/main/AndroidManifest.xml:11:5-70
+	android:name
+		ADDED from /Users/yroma/AndroidStudioProjects/TFP/app/src/main/AndroidManifest.xml:11:22-68
+uses-permission#android.permission.INTERNET
+ADDED from /Users/yroma/AndroidStudioProjects/TFP/app/src/main/AndroidManifest.xml:12:5-66
+	android:name
+		ADDED from /Users/yroma/AndroidStudioProjects/TFP/app/src/main/AndroidManifest.xml:12:22-64
+application
+ADDED from /Users/yroma/AndroidStudioProjects/TFP/app/src/main/AndroidManifest.xml:14:5-56:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/yroma/.android/build-cache/b4542c8f457733913864ad16a78886b1155938d2/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/yroma/.android/build-cache/c3690cd28b61c5f02be8ab51f1aca6e44713b901/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/yroma/.android/build-cache/eb6489cea3ec3765b7cf1544250f4fb7af5118fe/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/yroma/.android/build-cache/d2824159672e77a1ceffd0bf709ee04dddc697bc/output/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-auth:11.0.4] /Users/yroma/.android/build-cache/8162aef8d86ebaad0b1fc0ff3971403efecf586f/output/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/yroma/.android/build-cache/713c1fd13316ca49616e60a2522ecb9ab4a82757/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/yroma/.android/build-cache/8816fa01d29d445d73eee05bb4da85f684bce323/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/yroma/.android/build-cache/734d6b7d2069c53bfe9e405b8b2c8d0bd38f2f18/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/yroma/.android/build-cache/aea6ded45be061d4bd0cf1a893cb7527dcde8950/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/yroma/.android/build-cache/35bdb8a412b0fe16ddc10674eeb4253faf0d049d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/yroma/.android/build-cache/3dc94cbf024262a078068a6b762d5fd7f5550e9e/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/yroma/.android/build-cache/6536291d76037133c321570317553dfaba11d65b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/yroma/.android/build-cache/ef9ff165b59c5a8305902cc1cbd0623fd90693ad/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/yroma/.android/build-cache/31435f88d3a2d7240062a6af5cbfe8816360c658/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/yroma/AndroidStudioProjects/TFP/app/src/main/AndroidManifest.xml:19:9-41
+	android:supportsRtl
+		ADDED from /Users/yroma/AndroidStudioProjects/TFP/app/src/main/AndroidManifest.xml:21:9-35
+	android:roundIcon
+		ADDED from /Users/yroma/AndroidStudioProjects/TFP/app/src/main/AndroidManifest.xml:20:9-54
+	android:allowBackup
+		ADDED from /Users/yroma/AndroidStudioProjects/TFP/app/src/main/AndroidManifest.xml:17:9-35
+	android:icon
+		ADDED from /Users/yroma/AndroidStudioProjects/TFP/app/src/main/AndroidManifest.xml:18:9-43
+	android:theme
+		ADDED from /Users/yroma/AndroidStudioProjects/TFP/app/src/main/AndroidManifest.xml:22:9-40
+	android:name
+		ADDED from /Users/yroma/AndroidStudioProjects/TFP/app/src/main/AndroidManifest.xml:16:9-31
+activity#com.example.yroma.tfp.MainActivity
+ADDED from /Users/yroma/AndroidStudioProjects/TFP/app/src/main/AndroidManifest.xml:23:9-29:20
+	android:screenOrientation
+		ADDED from /Users/yroma/AndroidStudioProjects/TFP/app/src/main/AndroidManifest.xml:23:19-55
+	android:name
+		ADDED from /Users/yroma/AndroidStudioProjects/TFP/app/src/main/AndroidManifest.xml:23:56-84
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/yroma/AndroidStudioProjects/TFP/app/src/main/AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from /Users/yroma/AndroidStudioProjects/TFP/app/src/main/AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from /Users/yroma/AndroidStudioProjects/TFP/app/src/main/AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/yroma/AndroidStudioProjects/TFP/app/src/main/AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from /Users/yroma/AndroidStudioProjects/TFP/app/src/main/AndroidManifest.xml:27:27-74
+receiver#com.example.yroma.tfp.MyReceiver
+ADDED from /Users/yroma/AndroidStudioProjects/TFP/app/src/main/AndroidManifest.xml:30:9-34:20
+	android:name
+		ADDED from /Users/yroma/AndroidStudioProjects/TFP/app/src/main/AndroidManifest.xml:30:19-45
+intent-filter#NEW_MESSAGE
+ADDED from /Users/yroma/AndroidStudioProjects/TFP/app/src/main/AndroidManifest.xml:31:13-33:29
+action#NEW_MESSAGE
+ADDED from /Users/yroma/AndroidStudioProjects/TFP/app/src/main/AndroidManifest.xml:32:17-53
+	android:name
+		ADDED from /Users/yroma/AndroidStudioProjects/TFP/app/src/main/AndroidManifest.xml:32:25-51
+activity#com.example.yroma.tfp.MyListViewActivity
+ADDED from /Users/yroma/AndroidStudioProjects/TFP/app/src/main/AndroidManifest.xml:35:9-39:20
+	android:name
+		ADDED from /Users/yroma/AndroidStudioProjects/TFP/app/src/main/AndroidManifest.xml:35:19-53
+intent-filter#android.intent.category.LAUNCHER
+ADDED from /Users/yroma/AndroidStudioProjects/TFP/app/src/main/AndroidManifest.xml:36:13-38:29
+activity#com.example.yroma.tfp.MyActivityWithFragments
+ADDED from /Users/yroma/AndroidStudioProjects/TFP/app/src/main/AndroidManifest.xml:40:9-44:20
+	android:name
+		ADDED from /Users/yroma/AndroidStudioProjects/TFP/app/src/main/AndroidManifest.xml:40:19-58
+activity#com.example.yroma.tfp.VisionObjectActivity
+ADDED from /Users/yroma/AndroidStudioProjects/TFP/app/src/main/AndroidManifest.xml:45:9-57
+	android:name
+		ADDED from /Users/yroma/AndroidStudioProjects/TFP/app/src/main/AndroidManifest.xml:45:19-55
+provider#android.support.v4.content.FileProvider
+ADDED from /Users/yroma/AndroidStudioProjects/TFP/app/src/main/AndroidManifest.xml:46:9-55:20
+	android:authorities
+		ADDED from /Users/yroma/AndroidStudioProjects/TFP/app/src/main/AndroidManifest.xml:48:13-67
+	android:grantUriPermissions
+		ADDED from /Users/yroma/AndroidStudioProjects/TFP/app/src/main/AndroidManifest.xml:50:13-47
+	android:exported
+		ADDED from /Users/yroma/AndroidStudioProjects/TFP/app/src/main/AndroidManifest.xml:49:13-37
+	android:name
+		ADDED from /Users/yroma/AndroidStudioProjects/TFP/app/src/main/AndroidManifest.xml:47:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/yroma/AndroidStudioProjects/TFP/app/src/main/AndroidManifest.xml:51:13-54:25
+	android:resource
+		ADDED from /Users/yroma/AndroidStudioProjects/TFP/app/src/main/AndroidManifest.xml:53:17-51
+	android:name
+		ADDED from /Users/yroma/AndroidStudioProjects/TFP/app/src/main/AndroidManifest.xml:52:17-67
+uses-sdk
+INJECTED from /Users/yroma/AndroidStudioProjects/TFP/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/yroma/.android/build-cache/b4542c8f457733913864ad16a78886b1155938d2/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/yroma/.android/build-cache/c3690cd28b61c5f02be8ab51f1aca6e44713b901/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/yroma/.android/build-cache/eb6489cea3ec3765b7cf1544250f4fb7af5118fe/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/yroma/.android/build-cache/d2824159672e77a1ceffd0bf709ee04dddc697bc/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-auth:11.0.4] /Users/yroma/.android/build-cache/8162aef8d86ebaad0b1fc0ff3971403efecf586f/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:11.0.4] /Users/yroma/.android/build-cache/0ef14cd67ad5a49a1220d7283b3f57e5fca757e4/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/yroma/.android/build-cache/713c1fd13316ca49616e60a2522ecb9ab4a82757/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/yroma/.android/build-cache/8816fa01d29d445d73eee05bb4da85f684bce323/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/yroma/.android/build-cache/734d6b7d2069c53bfe9e405b8b2c8d0bd38f2f18/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/yroma/.android/build-cache/aea6ded45be061d4bd0cf1a893cb7527dcde8950/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/yroma/.android/build-cache/35bdb8a412b0fe16ddc10674eeb4253faf0d049d/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/yroma/.android/build-cache/3dc94cbf024262a078068a6b762d5fd7f5550e9e/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/yroma/.android/build-cache/6536291d76037133c321570317553dfaba11d65b/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/yroma/.android/build-cache/ef9ff165b59c5a8305902cc1cbd0623fd90693ad/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/yroma/.android/build-cache/31435f88d3a2d7240062a6af5cbfe8816360c658/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/yroma/.android/build-cache/b4542c8f457733913864ad16a78886b1155938d2/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/yroma/AndroidStudioProjects/TFP/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yroma/AndroidStudioProjects/TFP/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/yroma/AndroidStudioProjects/TFP/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yroma/AndroidStudioProjects/TFP/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/yroma/.android/build-cache/b4542c8f457733913864ad16a78886b1155938d2/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/yroma/.android/build-cache/c3690cd28b61c5f02be8ab51f1aca6e44713b901/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/yroma/.android/build-cache/eb6489cea3ec3765b7cf1544250f4fb7af5118fe/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/yroma/.android/build-cache/aea6ded45be061d4bd0cf1a893cb7527dcde8950/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/yroma/.android/build-cache/35bdb8a412b0fe16ddc10674eeb4253faf0d049d/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/yroma/.android/build-cache/3dc94cbf024262a078068a6b762d5fd7f5550e9e/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/yroma/.android/build-cache/6536291d76037133c321570317553dfaba11d65b/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/yroma/.android/build-cache/ef9ff165b59c5a8305902cc1cbd0623fd90693ad/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/yroma/.android/build-cache/31435f88d3a2d7240062a6af5cbfe8816360c658/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/yroma/.android/build-cache/b4542c8f457733913864ad16a78886b1155938d2/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/yroma/.android/build-cache/b4542c8f457733913864ad16a78886b1155938d2/output/AndroidManifest.xml:26:9-47
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/yroma/.android/build-cache/8162aef8d86ebaad0b1fc0ff3971403efecf586f/output/AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/yroma/.android/build-cache/8162aef8d86ebaad0b1fc0ff3971403efecf586f/output/AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/yroma/.android/build-cache/8162aef8d86ebaad0b1fc0ff3971403efecf586f/output/AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/yroma/.android/build-cache/8162aef8d86ebaad0b1fc0ff3971403efecf586f/output/AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/yroma/.android/build-cache/8162aef8d86ebaad0b1fc0ff3971403efecf586f/output/AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/yroma/.android/build-cache/8162aef8d86ebaad0b1fc0ff3971403efecf586f/output/AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/yroma/.android/build-cache/8162aef8d86ebaad0b1fc0ff3971403efecf586f/output/AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/yroma/.android/build-cache/8162aef8d86ebaad0b1fc0ff3971403efecf586f/output/AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/yroma/.android/build-cache/8162aef8d86ebaad0b1fc0ff3971403efecf586f/output/AndroidManifest.xml:24:18-63
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/yroma/.android/build-cache/713c1fd13316ca49616e60a2522ecb9ab4a82757/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/yroma/.android/build-cache/713c1fd13316ca49616e60a2522ecb9ab4a82757/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/yroma/.android/build-cache/713c1fd13316ca49616e60a2522ecb9ab4a82757/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/yroma/.android/build-cache/713c1fd13316ca49616e60a2522ecb9ab4a82757/output/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.4] /Users/yroma/.android/build-cache/734d6b7d2069c53bfe9e405b8b2c8d0bd38f2f18/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] /Users/yroma/.android/build-cache/734d6b7d2069c53bfe9e405b8b2c8d0bd38f2f18/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] /Users/yroma/.android/build-cache/734d6b7d2069c53bfe9e405b8b2c8d0bd38f2f18/output/AndroidManifest.xml:20:20-65

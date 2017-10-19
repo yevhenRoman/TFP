@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/yroma/AndroidStudioProjects/TFP/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/yroma/.android/build-cache/b4542c8f457733913864ad16a78886b1155938d2/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/yroma/AndroidStudioProjects/TFP/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/yroma/.android/build-cache/b4542c8f457733913864ad16a78886b1155938d2/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]
